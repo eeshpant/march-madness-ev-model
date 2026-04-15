@@ -1,0 +1,8 @@
+{
+    "version": "V2",
+    "rating_type": "NetRating",
+    "normalization": "Z-score",
+    "logistic_k": 1.33,
+    "num_simulations": 10000,
+    "notes": "No matchup adjustments"
+}

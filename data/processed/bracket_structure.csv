@@ -1,0 +1,64 @@
+game_id,round,left_source,right_source
+1,1,Duke,Siena
+2,1,Ohio St.,TCU
+3,1,St. John's,Northern Iowa
+4,1,Kansas,Cal Baptist
+5,1,Louisville,South Florida
+6,1,Michigan St.,North Dakota St.
+7,1,UCLA,UCF
+8,1,Connecticut,Furman
+9,1,Arizona,LIU
+10,1,Villanova,Utah St.
+11,1,Wisconsin,High Point
+12,1,Arkansas,Hawaii
+13,1,BYU,Texas
+14,1,Gonzaga,Kennesaw St.
+15,1,Miami FL,Missouri
+16,1,Purdue,Queens
+17,1,Florida,Prairie View A&M
+18,1,Clemson,Iowa
+19,1,Vanderbilt,McNeese St.
+20,1,Nebraska,Troy
+21,1,North Carolina,VCU
+22,1,Illinois,Penn
+23,1,Saint Mary's,Texas A&M
+24,1,Houston,Idaho
+25,1,Michigan,Howard
+26,1,Georgia,Saint Louis
+27,1,Texas Tech,Akron
+28,1,Alabama,Hofstra
+29,1,Tennessee,Miami OH
+30,1,Virginia,Wright St.
+31,1,Kentucky,Santa Clara
+32,1,Iowa St.,Tennessee St.
+33,2,winner_1,winner_2
+34,2,winner_3,winner_4
+35,2,winner_5,winner_6
+36,2,winner_7,winner_8
+37,2,winner_9,winner_10
+38,2,winner_11,winner_12
+39,2,winner_13,winner_14
+40,2,winner_15,winner_16
+41,2,winner_17,winner_18
+42,2,winner_19,winner_20
+43,2,winner_21,winner_22
+44,2,winner_23,winner_24
+45,2,winner_25,winner_26
+46,2,winner_27,winner_28
+47,2,winner_29,winner_30
+48,2,winner_31,winner_32
+49,3,winner_33,winner_34
+50,3,winner_35,winner_36
+51,3,winner_37,winner_38
+52,3,winner_39,winner_40
+53,3,winner_41,winner_42
+54,3,winner_43,winner_44
+55,3,winner_45,winner_46
+56,3,winner_47,winner_48
+57,4,winner_49,winner_50
+58,4,winner_51,winner_52
+59,4,winner_53,winner_54
+60,4,winner_55,winner_56
+61,5,winner_57,winner_58
+62,5,winner_59,winner_60
+63,6,winner_61,winner_62
