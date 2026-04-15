@@ -4,9 +4,9 @@
 I built a Monte Carlo simulation of the NCAA tournament to estimate how often each team advances and wins the championship. Instead of just predicting winners, the goal was to understand probabilities and where the public might be over- or under-valuing teams in bracket pools.
 
 ## Key Results
-- Identified teams the public significantly overvalued relative to model probabilities
-- Highlighted lower-owned teams with positive edge in bracket pools
-- Showed how small probability differences can create leverage in large pools
+- Illinois was identified as one of the most undervalued teams by the model and went on to reach the Final Four
+- The model highlighted several cases where public pick rates diverged from probabilistic expectations
+- Results suggest that even small probability differences can create meaningful leverage in bracket pools
 
 ## Method
 - Team strength is based on net rating, normalized using a z-score
